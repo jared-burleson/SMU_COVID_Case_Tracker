@@ -8,9 +8,7 @@ Southern Methodist University has begun publishing case information for COVID-19
 
 SMU currently only displays active cases on their website so the data can only represent active cases at the time I pulled the data. The first day I pulled data was August 28, 2020. Any cases reported before August 17th or any cases that are labeled "no longer active" before August 28th would not be included in the data.
 
-I will include daily updates to the code with the data and then include the most recent graphics in this README file.
-
-*Insert Images Here*
+The plotting is generated in the Codes/COVID_data_plotting.py file, which is where I will put daily updated case information. Images/.. contains the graphics of the data, which are presented below for convience.
 
 <img src="Images/SMU_COVID19_community_notified_cases.jpg" width="500">
 <img src="Images/SMU_COVID19_positive_test_cases.jpg" width="500">
