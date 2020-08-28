@@ -11,3 +11,5 @@ SMU currently only displays active cases on their website so the data can only r
 I will include daily updates to the code with the data and then include the most recent graphics in this README file.
 
 *Insert Images Here*
+
+![Active Cases](https://github.com/jared-burleson/SMU_COVID_Case_Tracker/blob/master/Images/SMU_COVID19_active_cases.jpg)
