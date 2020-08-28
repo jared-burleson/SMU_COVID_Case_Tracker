@@ -12,4 +12,6 @@ I will include daily updates to the code with the data and then include the most
 
 *Insert Images Here*
 
+<img src="Images/SMU_COVID19_community_notified_cases.jpg" width="500">
+<img src="Images/SMU_COVID19_postive_test_cases.jpg" width="500">
 <img src="Images/SMU_COVID19_active_cases.jpg" width="500">
