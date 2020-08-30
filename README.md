@@ -15,5 +15,5 @@ Most Recent Update: 12:00 AM 08/29/2020
 
 <img src="Images/SMU_COVID19_community_notified_cases_08_28.jpg" width="500">
 <img src="Images/SMU_COVID19_positive_test_cases_08_28.jpg" width="500">
-<img src="Images/SMU_COVID19_active_cases_08_28.jpg" width="500">
+<img src="Images/SMU_COVID19_active_cases_08_28v2.jpg" width="500">
 <img src="Images/SMU_COVID19_cumulative_cases_08_28.jpg" width="500">
