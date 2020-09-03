@@ -11,9 +11,9 @@ SMU currently only displays active cases on their website so the data can only r
 
 The plotting is generated in the Codes/COVID_data_plotting.py file, which is where I will put daily updated case information. Images/.. contains the graphics of the data, which are presented below for convience.
 
-Most Recent Update: 5:53 PM 09/02/2020
+Most Recent Update: 6:53 PM 09/03/2020
 
-<img src="Images/SMU_COVID19_community_notified_cases_09_02.jpg" width="500">
-<img src="Images/SMU_COVID19_positive_test_cases_09_02.jpg" width="500">
-<img src="Images/SMU_COVID19_active_cases_09_02.jpg" width="500">
-<img src="Images/SMU_COVID19_cumulative_cases_09_02.jpg" width="500">
+<img src="Images/SMU_COVID19_community_notified_cases_09_03.jpg" width="500">
+<img src="Images/SMU_COVID19_positive_test_cases_09_03.jpg" width="500">
+<img src="Images/SMU_COVID19_active_cases_09_03.jpg" width="500">
+<img src="Images/SMU_COVID19_cumulative_cases_09_03.jpg" width="500">
