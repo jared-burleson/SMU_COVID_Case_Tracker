@@ -20,6 +20,6 @@ Most Recent Update: 11:26 AM 09/08/2020
 
 I am one of MANY students reporting information on SMU's COVID Data. For other (and better) visuals, check out:
 
-Jonathan Lindbloom's [Github](https://github.com/Jonathan-Lindbloom/SMU-COVID-19) and [Dashboard](https://public.tableau.com/profile/jonathan.lindbloom#!/vizhome/SMUCOVID-19InteractiveDashboard/Dashboard)
-Noah Pearson's [Github](https://github.com/NoahPearson/SMU_Covid-19_Tracking)
+Jonathan Lindbloom's [Github](https://github.com/Jonathan-Lindbloom/SMU-COVID-19) and [Dashboard](https://public.tableau.com/profile/jonathan.lindbloom#!/vizhome/SMUCOVID-19InteractiveDashboard/Dashboard)  
+Noah Pearson's [Github](https://github.com/NoahPearson/SMU_Covid-19_Tracking)  
 SMU's AI Club's [Dashboard}(http://covid.smuaiclub.com/)
