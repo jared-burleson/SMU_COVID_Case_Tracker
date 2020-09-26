@@ -19,10 +19,6 @@ Most Recent Update: 7:21 PM 09/25/2020
 <img src="Images/SMU_COVID19_cumulative_cases_09_25.jpg" width="500">
 <img src="Images/SMU_COVID19_cases_comparison_09_25.jpg" width="500">
 
-### Opinion Section
-
-I don't want to impose intepretations without evidence on the data so this section is after my display of the data. Since I am not involved in the data gathering, I do not make prediction models for campus nor include inferences about trends. However, the week of reporting from SMU is concerning. I am not making any claims or identifying answers to my concerns, but I just want to caution anyone looking at my graphics that I have no way to know if students are being honest in reporting to the university. Several students have approached me to express the same concerns and there are rumors, which I won't make here since I lack concrete evidence, of larger issues. In total, these lead me to be cautious about making comments about the trend of positive cases at SMU. If more information comes to light as trends continue, in whatever direction they may go, I may remove/adjust this comment, but I just wanted to express my concern here.
-
 I am one of MANY students reporting information on SMU's COVID Data. For other (and better) visuals, check out:
 
 Jonathan Lindbloom's [Github](https://github.com/Jonathan-Lindbloom/SMU-COVID-19) and [Dashboard](https://public.tableau.com/profile/jonathan.lindbloom#!/vizhome/SMUCOVID-19InteractiveDashboard/Dashboard)  
