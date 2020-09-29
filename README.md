@@ -13,11 +13,11 @@ The plotting is generated in the Codes/COVID_data_plotting.py file, which is whe
 
 Most Recent Update: 1:38 PM 09/27/2020
 
-<img src="Images/SMU_COVID19_community_notified_cases_09_26.jpg" width="500">
-<img src="Images/SMU_COVID19_positive_test_cases_09_26.jpg" width="500">
-<img src="Images/SMU_COVID19_active_cases_09_26.jpg" width="500">
-<img src="Images/SMU_COVID19_cumulative_cases_09_26.jpg" width="500">
-<img src="Images/SMU_COVID19_cases_comparison_09_26.jpg" width="500">
+<img src="Images/SMU_COVID19_community_notified_cases_09_28.jpg" width="500">
+<img src="Images/SMU_COVID19_positive_test_cases_09_28.jpg" width="500">
+<img src="Images/SMU_COVID19_active_cases_09_28.jpg" width="500">
+<img src="Images/SMU_COVID19_cumulative_cases_09_28.jpg" width="500">
+<img src="Images/SMU_COVID19_cases_comparison_09_28.jpg" width="500">
 
 I am one of MANY students reporting information on SMU's COVID Data. For other (and better) visuals, check out:
 
