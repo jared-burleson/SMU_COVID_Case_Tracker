@@ -3,7 +3,7 @@
 Southern Methodist University has begun publishing case information for COVID-19 around campus for Fall 2020. The raw data is reported each day at https://blog.smu.edu/coronavirus-covid-19/cases/. I am interested in mapping four separate trends in the data.
 
 * The Positive Cases Reported to the SMU Community (Notification Numbers)
-* The Positive Cases Reported to SMU (Case Numbers)
+* The Positive Cases Reported to SMU (I am now also generated a 7-day rolling average plot) (Case Numbers)
 * The Total Active Cases on Campus (Active Case Numbers)
 * The Total Cumulative Cases on Campus (Active Case Numbers + Inactive Case Numbers) (Note: Cases before August 17th are not included)
 
