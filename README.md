@@ -11,14 +11,14 @@ SMU currently only displays active cases on their website so the data can only r
 
 The plotting is generated in the Codes/COVID_data_plotting.py file, which is where I will put daily updated case information. Images/.. contains the graphics of the data, which are presented below for convience.
 
-Most Recent Update: 12:16 AM 10/07/2020
+Most Recent Update: 5:03 PM 10/07/2020
 
-<img src="Images/SMU_COVID19_community_notified_cases_10_06.jpg" width="500">
-<img src="Images/SMU_COVID19_positive_test_cases_10_06.jpg" width="500">
-<img src="Images/SMU_COVID19_positive_test_cases_rollingavg_10_06.jpg" width="500">
-<img src="Images/SMU_COVID19_active_cases_10_06.jpg" width="500">
-<img src="Images/SMU_COVID19_cumulative_cases_10_06.jpg" width="500">
-<img src="Images/SMU_COVID19_cases_comparison_10_06.jpg" width="500">
+<img src="Images/SMU_COVID19_community_notified_cases_10_07.jpg" width="500">
+<img src="Images/SMU_COVID19_positive_test_cases_10_07.jpg" width="500">
+<img src="Images/SMU_COVID19_positive_test_cases_rollingavg_10_07.jpg" width="500">
+<img src="Images/SMU_COVID19_active_cases_10_07.jpg" width="500">
+<img src="Images/SMU_COVID19_cumulative_cases_10_07.jpg" width="500">
+<img src="Images/SMU_COVID19_cases_comparison_10_07.jpg" width="500">
 
 I am one of MANY students reporting information on SMU's COVID Data. For other (and better) visuals, check out:
 
