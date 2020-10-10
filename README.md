@@ -1,5 +1,11 @@
 # SMU COVID-19 Case Tracker
 
+### Disclaimer
+
+> On 10/08/2020, SMU changed the way they reported data. Previously, data was reported directly to the community and myself and others took this data and turned it into plots/graphics like the ones I present below. However, after two months of reporting data this way, SMU decided to change to instead produce their own graphics, conveying the exact same information that I present below. With this change, SMU no longer reports raw data for people to view/download/plot. I am currently not sure if I will continue recording data and making plots as I no longer have an easy way to find out how many cases were reported vs. recorded and the backlog changes to active cases that I was doing. 
+
+### Data and Plots
+
 Southern Methodist University has begun publishing case information for COVID-19 around campus for Fall 2020. The raw data is reported each day at https://blog.smu.edu/coronavirus-covid-19/cases/. I am interested in mapping four separate trends in the data.
 
 * The Positive Cases Reported to the SMU Community (Notification Numbers)
@@ -11,7 +17,7 @@ SMU currently only displays active cases on their website so the data can only r
 
 The plotting is generated in the Codes/COVID_data_plotting.py file, which is where I will put daily updated case information. Images/.. contains the graphics of the data, which are presented below for convience.
 
-Most Recent Update: 5:03 PM 10/07/2020
+Most Recent Update: **5:03 PM 10/07/2020**
 
 <img src="Images/SMU_COVID19_community_notified_cases_10_07.jpg" width="500">
 <img src="Images/SMU_COVID19_positive_test_cases_10_07.jpg" width="500">
