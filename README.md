@@ -1,6 +1,6 @@
 # SMU COVID-19 Case Tracker
 
-### Disclaimer
+### Note/Update
 
 > On 10/08/2020, SMU changed the way they reported data. Previously, data was reported directly to the community and myself and others took this data and turned it into plots/graphics like the ones I present below. However, after two months of reporting data this way, SMU decided to change to instead produce their own graphics, conveying the exact same information that I present below. With this change, SMU no longer reports raw data for people to view/download/plot. I am currently not sure if I will continue recording data and making plots as I no longer have an easy way to find out how many cases were reported vs. recorded and the backlog changes to active cases that I was doing. 
 
